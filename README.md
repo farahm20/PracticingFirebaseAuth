@@ -1,3 +1,8 @@
+# FirebaseAuthentication 
+
+In this practice project I have used firebase version 9 and authcontext for signup, login, forgot password and update profile. React router dom is used with protected routes where required. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
